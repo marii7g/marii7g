@@ -1,9 +1,14 @@
-### Hi there 👋
+Boas vindas ao meu perfil 💙
 
-<!--
-**marii7g/marii7g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mariana Godoi
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+- 00001109144684sp@al.educacao.sp.gov.br
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
